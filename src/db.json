@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "name": "twabel",
+      "price": 10,
+      "quantity": 6,
+      "image": "../../assets/img/product6.jpg"
+    },
+    {
+      "image": "../../assets/img/product6.jpg",
+      "name": "couscous",
+      "price": 4,
+      "quantity": 4,
+      "id": 6
+    }
+  ]
+}
